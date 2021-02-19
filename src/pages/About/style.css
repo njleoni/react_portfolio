@@ -1,0 +1,16 @@
+/* Adds margin, max width and float left to the image on the index page */
+.index-img {
+  margin-right: 20px;
+  padding-bottom: 5px;
+  max-width: 450px;
+  float: left;
+}
+
+/* Adds spacing, padding and background color to the card on the index page */
+.card.index {
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
