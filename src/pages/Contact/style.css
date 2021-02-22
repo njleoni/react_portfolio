@@ -1,0 +1,13 @@
+/* Adds margin and background color to the card on the contact page */
+.card.contact {
+  margin: 50px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
+
+.cvImg {
+  width: 40px;
+}
+
+.alignImg {
+  text-align: center;
+}

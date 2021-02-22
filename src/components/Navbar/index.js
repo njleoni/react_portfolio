@@ -5,7 +5,7 @@ import "./style.css";
 function Navbar() {
   return (
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
-      <a class="navbar-brand" href="./index.html">Nick Leoni</a>
+      <a class="navbar-brand" href="/">Nick Leoni</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -21,10 +21,10 @@ function Navbar() {
       <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
           <li class="nav-item">
-            <a class="nav-link" href="./portfolio.html">Portfolio </a>
+            <a class="nav-link" href="./portfolio">Portfolio </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./contact.html">Contact</a>
+            <a class="nav-link" href="./contact">Contact</a>
           </li>
         </ul>
       </div>
