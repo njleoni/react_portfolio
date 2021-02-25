@@ -16,7 +16,11 @@ body {
   background-image: url("./images/unicorn.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: fill;
   font-family: "Roboto", sans-serif;
   /* opacity: 0.9; */
+}
+
+p {
+  margin-left: 10px;
 }
