@@ -1,8 +1,9 @@
 import { useState } from 'react';
-import quote from "../images/quotes.png";
-import schedule from "../images/scheduler.png";
-import weather from "../images/weather.png";
-import project2 from "../images/project2.PNG";
+import "./style.css";
+import quote from "../../images/quotes.png";
+import schedule from "../../images/scheduler.png";
+import weather from "../../images/weather.png";
+import project2 from "../../images/project2.PNG";
 
 const Project = () => {
     const [projects, setProjects] = useState([

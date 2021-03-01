@@ -1,0 +1,14 @@
+.container.port {
+  font-size: 20px;
+}
+
+.card.port {
+  margin: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
+
+.row.port {
+  margin-bottom: 20px;
+}

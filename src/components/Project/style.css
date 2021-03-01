@@ -1,0 +1,11 @@
+.port-img {
+  height: 350px;
+  padding: 5px;
+  background-color: rgba(245, 245, 245, 0.767);
+  /* margin-left: 2px; */
+  /* max-width: 350px; */
+}
+
+.justify-content-center {
+  overflow: auto;
+}
