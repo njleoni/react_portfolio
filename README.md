@@ -31,7 +31,7 @@
     
 ## Questions
 [GitHub Repo Link](https://github.com/njleoni/react_portfolio/)<br/>
-[Deployed Link](https://njleoni.github.io/react_portfolio/)
+[Deployed Link](https://stormy-island-23399.herokuapp.com/)
 
 #### If you have any additional questions, please contact me at nicholas.leoni@gmail.com
 
